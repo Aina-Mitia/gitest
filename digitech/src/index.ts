@@ -18,7 +18,7 @@ app.listen(port, () =>
 const db = require('./config/db.config')
 
 db.connect();*/
-
+//efa tsara izy izany
 import mongoose from "mongoose";
 import bodyParser from "body-parser";
 /*import Teacher from "../modelles/teacher";
