@@ -1,0 +1,18 @@
+.topbar{
+    background-color: brown;
+    padding: 25px;
+}
+
+.topbar a {
+    position: relative;
+    padding:  25px;
+    margin: 0;
+    left: 200px;
+    
+    color: beige;
+    text-decoration: none;
+}
+
+.topbar a:hover{
+    background-color: rgba(255, 255, 255, 0.4);
+}
