@@ -19,6 +19,7 @@ const db = require('./config/db.config')
 
 db.connect();*/
 //efa tsara izy izany
+//mety izy izany
 import mongoose from "mongoose";
 import bodyParser from "body-parser";
 /*import Teacher from "../modelles/teacher";
